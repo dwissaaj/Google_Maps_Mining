@@ -1,0 +1,3 @@
+So in this library everytime we call google maps review it only return 10 value and a token for next page.
+What I am trying to do this how to do it recursive?My first approach is to duplicate all ```params``` and edit
+the token every time call new api.Is there any solution about this
